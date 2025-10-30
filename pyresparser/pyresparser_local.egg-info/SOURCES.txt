@@ -1,0 +1,6 @@
+setup.py
+pyresparser_local.egg-info/PKG-INFO
+pyresparser_local.egg-info/SOURCES.txt
+pyresparser_local.egg-info/dependency_links.txt
+pyresparser_local.egg-info/not-zip-safe
+pyresparser_local.egg-info/top_level.txt
